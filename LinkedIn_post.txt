@@ -1,9 +1,8 @@
-🚀 End-to-End ML on Azure: Obesity Classification
+End-to-End ML on Azure: Obesity Classification
 
 I built and deployed an Obesity Level Classification pipeline using **Python + Azure Machine Learning**. 
 The model predicts 4 classes (underweight, normal, overweight, obese) from basic features (age, gender, height, weight, BMI).
-
-✅ Highlights
+ Highlights
 • Reproducible Azure ML runs (experiment: ObesityPrediction_Run)
 • Real-time inference endpoint
 • Consistent macro/micro precision & recall across classes
